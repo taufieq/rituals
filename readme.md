@@ -45,13 +45,17 @@ Eigenlijk ging alles wel goed. Wat verwarrend was, is dat ik met flexbox werk en
 Het is mij niet gelukt om foto's bij te snijden met css en flexbox. Wel met position absolute en left en right. 
 
 Met behulp van de inspecterentool kon ik wel achterhalen hoe het een en ander gedaan is. Ik merk dat ik nog veel moet oefenen met Lineheight en letterspacing om zo het juiste gevoel na te bootsen. 
-
+(images/Voortgang1.png)
+(images/Voortgang1Mobiel.png)
 **Screenshot(s):**
+
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Voortgang1.png)
+
+![Hoe ver ik nu ben](images/Voortgang1Mobiel.png)
 
 -screenshot(s) van hoe ver je bent-
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Voortgang1.png)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Voortgang1Mobiel.png)
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
