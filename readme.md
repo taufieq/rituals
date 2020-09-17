@@ -38,7 +38,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-dit ging goed & dit was lastig- 
+
+Eigenlijk ging alles wel goed. Wat verwarrend was, is dat ik met flexbox werk en Rituals dingen zoals position absolute enzo gebruikt. Daardoor was het soms lastig om uit te zoeken hoe ik bepaalde elementen goed kon positioneren. 
+
+Het is mij niet gelukt om foto's bij te snijden met css en flexbox. Wel met position absolute en left en right. 
+
+Met behulp van de inspecterentool kon ik wel achterhalen hoe het een en ander gedaan is. Ik merk dat ik nog veel moet oefenen met Lineheight en letterspacing om zo het juiste gevoel na te bootsen. 
 
 **Screenshot(s):**
 
