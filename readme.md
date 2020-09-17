@@ -50,9 +50,8 @@ Met behulp van de inspecterentool kon ik wel achterhalen hoe het een en ander ge
 
 -screenshot(s) van hoe ver je bent-
 
-![(images/Voortgang1.png)]
-![(images/Voortgang1Mobiel.png)]
-
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Voortgang1)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Voortgang1Mobiel)
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
