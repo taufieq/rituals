@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="author" content="jouw naam">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>Rituals Taufieq</title>
 
     <link href="styles/style.css" rel="stylesheet">
@@ -45,89 +44,47 @@
                 </path>
             </svg>
         </nav>
+        <form action="">
+            <p>Eerste pagina</p>
+            <a href="index.html">Klik hier voor de eerste pagina!</a>
 
-        <section>
-            <h1>Dit is de <br> namaak van Rituals</h1>
-            <p>
-                Hieronder is een link die op een button lijkt
-            </p>
-            <a href="" class="button">Shop de collectie</a>
-            <form action="">
-                <p>Tweede pagina</p>
-                <a href="contact.html">Klik hier voor de tweede pagina!</a>
-
-            </form>
-        </section>
-        <section>
-            <h2>At your service</h2>
-            <p>Ontvang online advies via</p>
-            <a href="" class="whatsapp">WhatsApp</a>
-        </section>
+        </form>
     </header>
     <main>
-        <section>
-            <article>
-                <h2>
-                    Exclusief voor my rituals members
-                </h2>
-                <h3>
-                    Jouw online cadeau
-                </h3>
-                <p>
-                    Ontvang deze Sweet Jasmine mini geurstokjes cadeau bij een online bestelling van €40 of meer.*
-                </p>
-                <a href="" class="bestseller">Shop bestsellers</a>
-                <img src="images/Geurstokjes.jpg" alt="shop gift geurstokjes">
-            </article>
-
-            <article>
-                <h3>
-                    The Ritual of Advent
-                </h3>
-                <p>
-                    Begin het aftellen tot kerst met 24 luxe cadeaus.
-                </p>
-                <a href="" class="bestseller">Shop bestsellers</a>
-                <img src="images/CadeausKerst.jpg" alt="Kerstcadeau">
-            </article>
-        </section>
-
-        <section>
-            <article>
-                <h2>
-                    Top picks
-                </h2>
-                <h3>
-                    Onze herfstfavorieten
-                </h3>
-                <ul>
-                    <li>
-                        <img src="images/item1.webp" alt="herfst favorieten">
-                        <p>item1</p>
-                    </li>
-                    <li>
-                        <img src="images/item2.webp" alt="herfst favorieten">
-                        <p>item2</p>
-                    </li>
-                    <li>
-                        <img src="images/item3.webp" alt="herfst favorieten">
-                        <p>item3</p>
-                    </li>
-                    <li>
-                        <img src="images/item4.webp" alt="herfst favorieten">
-                        <p>item4</p>
-                    </li>
-                    <li>
-                        <img src="images/item5.webp" alt="herfst favorieten">
-                        <p>item5</p>
-                    </li>
-                </ul>
-            </article>
-        </section>
+        <h1 class="contact">
+            Neem contact met ons op als je een vraag wilt stellen.
+        </h1>
+        <p class="contact">
+            Bel onze Helpdesk: +31 (0) 20 2415948
+            <br>Maandag - zondag van 9.00 - 21.00 uur
+        </p>
+        <form class="contact" action="">
+            <section>
+                <label for="voornaam">Naam:</label><br>
+                <input type="text" name="voornaam"><br>
+            </section>
+            <section>
+                <label for="mailadres">Mailadres:</label><br>
+                <input type="text" name="mailadres"><br>
+            </section>
+            <section>
+                <label for="telefoonnummer">Mobielnummer:</label><br>
+                <input type="text" name="mailadres"><br>
+            </section>
+            <section>
+                <input type="radio" name="contactoptie" value="Mail mij">
+                <label for="Mailen">Mail mij</label>
+                <input type="radio" name="contactoptie" value="Bel mij">
+                <label for="Bellen">Bel mij</label>
+            </section>
+            <input class="contactButton" type="submit" value="Neem contact op met mij">
+        </form>
 
     </main>
 
+
     <script src="scripts/script.js"></script>
+
 </body>
 
 </html>

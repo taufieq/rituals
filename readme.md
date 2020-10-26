@@ -50,7 +50,7 @@ Met behulp van de inspecterentool kon ik wel achterhalen hoe het een en ander ge
 **Screenshot(s):**
 
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Voortgang1.png)
+![](images/Voortgang1.png)
 
 ![Hoe ver ik nu ben](images/Voortgang1Mobiel.png)
 
