@@ -6,17 +6,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
-
+1. -bron 1: bron voor de svg plaatsjes: http://svgicons.sparkk.fr/ -
+2. -bron 2: https://codepen.io/shooft/pen/yLOvyQg-
+3. -https://www.rituals.com/nl-nl/home-
+4. -https://www.w3schools.com/html/html_forms.asp-
+5. -https://css-tricks.com/snippets/css/a-guide-to-flexbox/-
 
 
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
 
-**Screenshot(s):**
+**Screenshot(s): [Dit ging goed](images/gingoed1.png)
 
 -screenshot(s) van je eindresultaat-
 
