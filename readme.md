@@ -17,7 +17,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
-**Screenshot(s): ![Dit ging goed](images/gingoed1.png)
+**Screenshot(s): ![Dit ging goed](images/ginggoed1.png)
 
 -screenshot(s) van je eindresultaat-
 
