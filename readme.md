@@ -18,13 +18,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s): ![Dit ging goed](images/ginggoed1.png)
-![Dit ging goed]:images/ginggoed1.png "iconen"
-
+![Dit ging goed](images/ginggoed2.png)
+![Dit ging goed](images/ginggoed3.png)
 
 -screenshot(s) van je eindresultaat-
 
-
-
+![het resultaat](images/eindresult1.png)
+![het resultaat](images/eindresult2.png)
+![het resultaat](images/eindresult3.png)
+![het resultaat](images/eindresult4.png)
+![het resultaat](images/eindresult5.png)
 ## Voortgang 3 (week 6)
 
 -same as voortgang 1-
