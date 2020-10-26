@@ -18,6 +18,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s): ![Dit ging goed](images/ginggoed1.png)
+![Dit ging goed]:images/ginggoed1.png "iconen"
+
 
 -screenshot(s) van je eindresultaat-
 
